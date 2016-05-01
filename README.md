@@ -1,3 +1,3 @@
 # Calculator
 
-Das ist ein Taschenrechner
+Das ist ein Taschenrechner. Version 1.0
